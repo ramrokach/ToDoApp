@@ -1,0 +1,51 @@
+* {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+ul {
+  width: 25%;
+  margin: auto;
+}
+h1 {
+  color: hsl(0, 78%, 62%);
+}
+.checkbox {
+  text-decoration: line-through;
+  color: green;
+}
+/*
+.todo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}*/
+.button {
+  color: midnightblue;
+  border: 1px solid darkseagreen;
+}
+.button:hover {
+  color: darkmagenta;
+}
+button {
+  color: midnightblue;
+  border: 1px solid darkseagreen;
+}
+button:hover {
+  color: darkmagenta;
+}
+.pressed {
+  background-color: yellow;
+  width: 15%;
+}
+.none {
+  background-color: whitesmoke;
+  width: 15%;
+}
+.div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+li {
+  list-style: none;
+}
